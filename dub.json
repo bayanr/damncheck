@@ -1,0 +1,9 @@
+{
+	"name": "damncheck",
+	"description": "A property based testing library based on dashcheck",
+	"copyright": "Copyright © 204 George Zakhour",
+	"authors": ["George Zakhour"],
+	"dependencies": {
+	},
+    "targetType": "library"
+}
